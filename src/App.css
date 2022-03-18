@@ -1,2 +1,7 @@
 .App {
 }
+
+.row {
+  display: flex;
+  gap: 30px;
+}
